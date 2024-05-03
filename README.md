@@ -2,7 +2,8 @@
 
 <h1 align="center">Meme Coin Website Template</h1>
 
-![website_pack1691646017_1](https://github.com/Bitrix-Infotech-Pvt-Ltd/meme-coin-website-template/assets/168802075/726862fd-8535-4b0e-8e1d-e89fb2439dcf)
+![website_pack1691646017_2](https://github.com/Bitrix-Infotech-Pvt-Ltd/meme-coin-website-template/assets/168802075/77e1fc7e-542f-4dfc-acbb-c1e12e4ba1ac)
+
 
 The Meme Coin HTML5 website template is designed for those who want to start a crypto website based on the meme coin trend.This HTML5 website template allows users to create their own crypto website with a fun and engaging theme.
 
